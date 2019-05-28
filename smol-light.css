@@ -1,0 +1,136 @@
+/*Light theme uhh*/
+body {
+  margin: 0;
+  /*background-color: rgb(69, 69, 69);*/
+  background-image: url("C:/Users/zuzul/.atom/packages/script/Projects/ivt-portfolio/opráski/pozadi2.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: rgb(57, 61, 63);
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1em;
+}
+
+/*Night mode*/
+p {
+  text-align: right;
+  padding: 0.5em 1.5em;
+}
+
+.hlava {
+  padding: 2em 2.5em;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  background-color: rgba(255, 147, 157, 0.5);
+}
+
+.heading {
+  font-family: 'Merriweather', serif;
+  font-weight: regular;
+  font-size: 95%;
+}
+
+a {
+  color: rgb(17, 133, 6);
+  text-decoration: none;
+  padding: 0.9em 0.2em;
+}
+
+a:hover, a:active {
+  color: rgb(176, 34, 140);
+  font-weight: bold;
+  background-image: url("C:/users/zuzul/.atom/packages/script/Projects/ivt-portfolio/opráski/ikona.svg");
+  background-size: 1.5em;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.menu {
+  display: flex;
+  justify-content: flex-end;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  padding: 0.5em 1em;
+}
+
+img {
+  background-color: white;
+  /*height: 45%;
+  width: 45%;*/
+  padding: 1.5% 1.5% 5% 1.5%;
+}
+
+.obsah {
+  padding: 3em 2em;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.obsah .kresby {
+  padding: 0;
+  margin:0;
+}
+
+#hhh {
+  padding: 0;
+  object-fit: cover;
+  height: 19em;
+  width: 19em;
+}
+
+.obsah-home {
+  padding: 3em 2em;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+/*.obsah img {
+  padding: 0;
+  margin: 0;
+}*/
+
+.kresby {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.kresby > img {
+  height: 50%;
+  width: 33%;
+  padding: 0;
+  margin: 0;
+}
+
+span {
+  color: rgb(0, 109, 23);
+  font-weight: bold;
+  text-align: center;
+}
+
+.obsah p {
+  text-align: left;
+}
+
+#mail {
+  background-color: rgba(255, 147, 157, 0.5);
+  padding: 2%;
+  margin: 5em 39%;
+  border-radius: 50em;
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  text-align: center;
+  background-color: rgba(255, 147, 157, 0.5);
+  padding: 1.5em;
+  margin: 5% 0% 0%;
+}
