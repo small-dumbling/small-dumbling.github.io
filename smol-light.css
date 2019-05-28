@@ -2,7 +2,7 @@
 body {
   margin: 0;
   /*background-color: rgb(69, 69, 69);*/
-  background-image: url("C:/Users/zuzul/.atom/packages/script/Projects/ivt-portfolio/opráski/pozadi2.png");
+  background-image: url("opráski/pozadi2.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -41,7 +41,7 @@ a {
 a:hover, a:active {
   color: rgb(176, 34, 140);
   font-weight: bold;
-  background-image: url("C:/users/zuzul/.atom/packages/script/Projects/ivt-portfolio/opráski/ikona.svg");
+  background-image: url("opráski/ikona.svg");
   background-size: 1.5em;
   background-position: center;
   background-repeat: no-repeat;

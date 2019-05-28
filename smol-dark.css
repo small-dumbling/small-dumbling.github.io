@@ -41,7 +41,7 @@ a {
 a:hover, a:active {
   color: rgb(184, 255, 194);
   font-weight: bold;
-  background-image: url("C:/users/zuzul/.atom/packages/script/Projects/ivt-portfolio/opráski/ikona.svg");
+  background-image: url("opráski/ikona.svg");
   background-size: 1.5em;
   background-position: center;
   background-repeat: no-repeat;
