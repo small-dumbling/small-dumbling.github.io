@@ -15,7 +15,10 @@
    height="32"
    viewBox="0 0 32 32"
    sodipodi:docname="ikona.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="ikona.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata821">
     <rdf:RDF>
@@ -47,7 +50,7 @@
      inkscape:guide-bbox="true"
      inkscape:pagecheckerboard="false"
      inkscape:zoom="22.627417"
-     inkscape:cx="24.810494"
+     inkscape:cx="16.148436"
      inkscape:cy="16.929651"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
